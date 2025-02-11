@@ -41,6 +41,9 @@ dependencies {
     // media3
     implementation("androidx.media3:media3-exoplayer:1.5.1")
     implementation("androidx.media3:media3-effect:1.5.1")
+    // transformer
+    implementation("androidx.media3:media3-transformer:1.5.1")
+    implementation("androidx.media3:media3-common:1.5.1")
 
     implementation(libs.androidx.core.ktx)
     implementation(libs.androidx.lifecycle.runtime.ktx)
